@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\net8.0-windows\QuanLiSinhVien.exe
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\net8.0-windows\QuanLiSinhVien.deps.json
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\net8.0-windows\QuanLiSinhVien.runtimeconfig.json
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\net8.0-windows\QuanLiSinhVien.dll
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\net8.0-windows\QuanLiSinhVien.pdb
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.Form1.resources
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.dll
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\refint\QuanLiSinhVien.dll
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.pdb
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\QuanLiSinhVien.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\net8.0-windows\ref\QuanLiSinhVien.dll
